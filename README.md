@@ -5,7 +5,6 @@
 ## APPARATUS REQUIRED:
 Xilinx 14.7
 Spartan6 FPGA
-  
 ## PROCEDURE:
 #### STEP:1  Start  the Xilinx navigator, Select and Name the New project.
 #### STEP:2  Select the device family, device, package and speed.       
@@ -18,10 +17,6 @@ Spartan6 FPGA
 #### STEP:9  In the Design Object List Window, enter the pin location for each pin in the Loc column Select save from the File menu.
 #### STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
 #### STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
-
-
-
-
 
 ## 2 bit Multiplier
 ### Logic Diagram:
