@@ -21,6 +21,8 @@ Spartan6 FPGA
 
 
 
+
+
 ## 2 bit Multiplier
 ### Logic Diagram:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
