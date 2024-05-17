@@ -45,6 +45,8 @@ HalfAdder h0(w1,w2,y[1],w4);
 HalfAdder h1(w3,w4,y[2],y[3]);
 Endmodule
 ```
+
+
 ## Output Waveform
 ### 2 bit Multiplier:
 ![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/ea76546f-1e61-431d-8335-27654e19091f)
