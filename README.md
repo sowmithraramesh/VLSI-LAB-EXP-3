@@ -19,12 +19,11 @@ Spartan6 FPGA
 #### STEP:10 Double click on the Implement Design and double click on the Generate Programming File to create a bitstream of the design.(.v) file is converted into .bit file here.
 #### STEP:11  On the board, by giving required input, the LEDs starts to glow light, indicating the output.
 
-## Logic Diagram:
-### 2 bit Multiplier
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
-## Verilog code
 ## 2 bit Multiplier
+### Logic Diagram:
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
+
+### Verilog code
 ```
 module HalfAdder(a,b,sum,carry);
 input a,b;
@@ -47,14 +46,14 @@ Endmodule
 ```
 
 
-## Output Waveform
-### 2 bit Multiplier:
+### Output Waveform
 ![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/ea76546f-1e61-431d-8335-27654e19091f)
 
 ## 4 Bit Multiplier
+### Logic Diagram:
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
-## 4 Bit Multiplier
+### Verilog code
 ```
 module ha(s,c,a,b);
 input a,b;
@@ -111,8 +110,7 @@ fa fa8(p[6],p[7],w[15],c[8],c[11]);
 endmodule
 
 ```
-
-### 4 Bit Multiplier:
+### Output Waveform
 ![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/17bc9957-0c81-4dd2-a6cd-094c876bab6d)
 
 
