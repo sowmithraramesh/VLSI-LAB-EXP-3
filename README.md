@@ -49,7 +49,7 @@ Endmodule
 ### 2 bit Multiplier:
 ![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/ea76546f-1e61-431d-8335-27654e19091f)
 
-### 4 Bit Multiplier
+## 4 Bit Multiplier
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
 
 ## 4 Bit Multiplier
