@@ -23,12 +23,6 @@ Spartan6 FPGA
 ### 2 bit Multiplier
 
 ![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/7713750f-65e6-41c0-8082-5005eac4031c)
-
-### 4 Bit Multiplier
-
-![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
-
-
 ## Verilog code
 ## 2 bit Multiplier
 ```
@@ -51,6 +45,13 @@ HalfAdder h0(w1,w2,y[1],w4);
 HalfAdder h1(w3,w4,y[2],y[3]);
 Endmodule
 ```
+## Output Waveform
+### 2 bit Multiplier:
+![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/ea76546f-1e61-431d-8335-27654e19091f)
+
+### 4 Bit Multiplier
+![image](https://github.com/navaneethans/VLSI-LAB-EXP-3/assets/6987778/d95215dd-8cf1-4e08-93cc-96adfdd7fbdc)
+
 ## 4 Bit Multiplier
 ```
 module ha(s,c,a,b);
@@ -109,17 +110,8 @@ endmodule
 
 ```
 
-
-
-
-
-
-## Output Waveform
-### 2 bit Multiplier:
-![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/ea76546f-1e61-431d-8335-27654e19091f)
 ### 4 Bit Multiplier:
 ![image](https://github.com/sowmithraramesh/VLSI-LAB-EXP-3/assets/166893766/17bc9957-0c81-4dd2-a6cd-094c876bab6d)
-
 
 
 ## Result:
